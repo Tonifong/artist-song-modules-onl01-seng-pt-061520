@@ -1,5 +1,5 @@
 module Findable
   include Song
-  include 
+  include Artist
   def find_by_name
     
